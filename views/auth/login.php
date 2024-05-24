@@ -14,6 +14,7 @@
             id="email"
             placeholder="Tu Email"
             name="email"
+            value="correo.correo@correo.com"
             
         />
     </div>
@@ -24,6 +25,7 @@
             id="password"
             placeholder="Tu Password"
             name="password"
+            value="123456"
         />
     </div>
     <input type="submit" class="boton" value="Iniciar sesion">

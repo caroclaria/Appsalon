@@ -20,7 +20,7 @@
         padding: calc(v.$separacion / 4);
         border-radius: 1rem;
 
-        &:disable{
+        &:disabled{
             background-color: lighten(v.$negro, 30%);
             color: v.$blanco;
             cursor: not-allowed;
